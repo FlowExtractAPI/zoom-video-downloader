@@ -1,0 +1,306 @@
+TERMS OF SERVICE
+
+Zoom Video Direct Downloader Extension
+
+Last Updated: December 2024
+
+ACCEPTANCE OF TERMS
+
+By installing and using the Zoom Video Direct Downloader extension, you agree to comply with these terms. If you do not agree, please uninstall the extension.
+
+1. LEGAL DISCLAIMER
+
+⚠️ IMPORTANT: This extension allows you to extract and download Zoom recordings. Users are solely responsible for:
+
+✓ Ensuring you have permission to access and download any recording
+✓ Complying with Zoom's Terms of Service
+✓ Complying with all applicable local, state, national, and international laws
+✓ Respecting intellectual property rights
+✓ Not violating any organization's policies or confidentiality agreements
+✓ Not using this extension for unauthorized access
+
+UNAUTHORIZED USE IS PROHIBITED. This extension is for authorized users only.
+
+2. PERMITTED USE
+
+You may use this extension only for:
+✓ Downloading recordings you have legal access to
+✓ Personal archival and backup purposes
+✓ Educational use (with proper permissions)
+✓ Accessing recordings you're authorized to view
+✓ Creating personal study materials
+
+3. PROHIBITED USE
+
+You may NOT use this extension for:
+✗ Downloading private or confidential recordings without authorization
+✗ Bypassing any access controls or authentication
+✗ Downloading recordings for commercial gain without permission
+✗ Downloading recordings from Zoom accounts you don't own
+✗ Distributing recordings without proper licenses
+✗ Violating anyone's privacy or confidentiality
+✗ Circumventing security measures
+✗ Extracting data for unauthorized purposes
+
+4. INTELLECTUAL PROPERTY RIGHTS
+
+Zoom Recordings:
+- You do NOT own download links or extracted data
+- Recordings may be copyrighted by the original owner
+- Reproduction and distribution require authorization
+- You are responsible for respecting copyright laws
+
+This Extension:
+- You may modify for personal use
+- You may not sell or claim ownership
+- Source code available on GitHub
+
+5. ZOOM RELATIONSHIP
+
+This extension:
+- Is NOT affiliated with, endorsed by, or sponsored by Zoom Video Communications
+- Is an independent third-party tool
+- Accesses publicly documented Zoom API endpoints
+- Is NOT approved by Zoom and subject to change
+- May stop working if Zoom changes their systems
+
+Zoom may:
+- Block this extension anytime
+- Change their API without notice
+- Legal action (in worst case)
+
+Users accept this risk.
+
+6. LIMITATION OF LIABILITY
+
+⚠️ THIS EXTENSION IS PROVIDED "AS IS" WITHOUT WARRANTY
+
+We do NOT guarantee:
+- The extension will work with all Zoom URLs
+- Download links will remain valid
+- Transcripts will be accurate
+- Compatibility with future Zoom updates
+- Data integrity or recovery
+- Uninterrupted service
+
+WE ARE NOT LIABLE FOR:
+- Loss of data or recordings
+- Failed downloads
+- Broken links
+- System failures
+- Any damages (direct or indirect)
+- Loss of business or profits
+- Third-party actions
+
+7. ASSUMPTION OF RISK
+
+By using this extension, you accept:
+✓ Zoom may block this extension anytime
+✓ Download links expire (24-48 hours)
+✓ The tool may break without notice
+✓ You are responsible for compliance
+✓ No technical support guaranteed
+✓ Use is at your own risk
+
+8. AUTHORIZATION & RESPONSIBILITY
+
+You warrant that you:
+✓ Have the legal right to access all recordings
+✓ Have authority to download files
+✓ Will comply with all applicable laws
+✓ Will respect organizational policies
+✓ Will not use for unauthorized purposes
+✓ Will not infringe on anyone's rights
+
+9. CONFIDENTIALITY
+
+If you access recordings that contain:
+- Trade secrets
+- Proprietary information
+- Personal data
+- Health information
+- Legal privileged content
+
+You agree to:
+✓ Maintain confidentiality
+✓ Comply with NDAs (Non-Disclosure Agreements)
+✓ Follow organizational policies
+✓ Report any misuse
+✓ Not share improperly
+
+10. DATA & PRIVACY
+
+The extension:
+✓ Stores data only locally on your device
+✓ Does NOT collect personal information
+✓ Does NOT transmit data to external servers
+✓ Does NOT track your behavior
+✓ Does NOT create user profiles
+
+See privacy-policy.txt for complete privacy details.
+
+11. NO SUPPORT OR WARRANTY
+
+This extension is provided on a best-effort basis:
+- No technical support guaranteed
+- No bug fixes guaranteed
+- No feature updates guaranteed
+- No warranties of any kind
+- Use community support channels
+
+12. MODIFICATION & TERMINATION
+
+We reserve the right to:
+✓ Modify the extension anytime
+✓ Change terms of service
+✓ Discontinue the extension
+✓ Remove features
+✓ Update pricing (if applicable)
+
+You can:
+✓ Stop using anytime
+✓ Uninstall the extension
+✓ Request data deletion
+
+13. THIRD PARTIES
+
+This extension:
+- Does NOT monitor third-party use
+- Is NOT responsible for how others use extracted files
+- Does NOT verify authorization
+- Does NOT prevent redistribution of downloaded content
+
+You are responsible for how you share extracted content.
+
+14. EXPORT CONTROLS
+
+Zoom recordings may be subject to export controls. By using this extension, you agree:
+✓ You are not prohibited from access
+✓ You will comply with export laws
+✓ You will not export to prohibited countries
+✓ You will not export to prohibited persons
+
+15. APPLICABLE LAWS
+
+This extension is governed by:
+- Laws of the United States
+- State of California (if applicable)
+- Zoom's Terms of Service (where applicable)
+- All applicable laws and regulations
+
+16. DISPUTE RESOLUTION
+
+Disputes shall be resolved by:
+- Good faith negotiation
+- Mediation if needed
+- Binding arbitration
+- NOT class action lawsuits
+
+17. SEVERABILITY
+
+If any term is found invalid:
+- That term is severed
+- Remaining terms continue
+- Intent of agreement upheld
+
+18. ENTIRE AGREEMENT
+
+This agreement constitutes the entire understanding between you and the extension provider regarding use of this tool.
+
+19. UPDATES TO TERMS
+
+We may update these terms anytime:
+- Changes posted with new version
+- Your continued use means acceptance
+- Previous version available on GitHub
+
+20. CONSENT TO MONITORING
+
+By using this extension:
+✓ You understand we log activities
+✓ Logs may be needed for support
+✓ Logs stored only locally
+✓ Logs aid troubleshooting
+
+21. SCHOOL/WORKPLACE COMPLIANCE
+
+If using at school or work:
+✓ You have obtained necessary permissions
+✓ You comply with all policies
+✓ You have authorization from administration
+✓ You report any policy violations
+✓ The organization approves this use
+
+22. GOVERNMENT USE
+
+If you are a U.S. government agency:
+✓ Use restricted to authorized personnel only
+✓ Subject to all compliance requirements
+✓ Proper acquisition procedures required
+✓ Security clearance may be necessary
+
+23. INDEMNIFICATION
+
+You agree to indemnify and hold harmless:
+- The extension provider
+- Contributors and maintainers
+- From any claims related to your use
+- From any legal action
+- From any damages
+
+24. FEEDBACK & SUGGESTIONS
+
+By submitting feedback:
+✓ You grant license to use suggestions
+✓ You agree not to submit confidential info
+✓ You waive moral rights to suggestions
+
+25. FORCE MAJEURE
+
+We are not liable for failure due to:
+- Internet outages
+- Zoom service changes
+- Acts of God
+- Government action
+- Other unforeseeable events
+
+26. ACKNOWLEDGMENT
+
+BY INSTALLING THIS EXTENSION, YOU:
+
+✓ Confirm you have read these terms
+✓ Understand the risks
+✓ Agree to all conditions
+✓ Accept full responsibility
+✓ Acknowledge legal risks
+✓ Will comply with all laws
+✓ Release any claims against provider
+
+27. CONTACT
+
+Questions about these terms?
+- GitHub: https://github.com/yourusername/zoom-video-downloader
+- Email: your.email@example.com
+- Issues: GitHub Issues page
+
+28. FINAL STATEMENT
+
+This extension is provided by independent developers and is not endorsed by Zoom. Use responsibly and legally.
+
+---
+
+PLEASE READ CAREFULLY BEFORE USE
+
+By installing this extension, you acknowledge:
+✓ You have read and understood these terms
+✓ You accept all risks and limitations
+✓ You are responsible for compliance
+✓ You will use this legally and ethically
+✓ You accept full liability for your use
+
+Disagreement? Uninstall the extension immediately.
+
+---
+
+Last Updated: December 2024
+Version: 1.0.0
